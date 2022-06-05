@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Taha Ofqir-Hamma</h1>
 <h3 align="center">A CS student and passionate frontend developer from Morocco</h3>
-<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
+<img align="right" alt="coding" width="350" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahaofqirhamma&label=Profile%20views&color=0e75b6&style=flat" alt="tahaofqirhamma" /> </p>
 
