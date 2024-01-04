@@ -4,9 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahaofqirhamma&label=Profile%20views&color=0e75b6&style=flat" alt="tahaofqirhamma" /> </p>
 
-- 🔭 I’m currently studying [Computer and Mathematics Sciences](http://www.fsr.ac.ma/content/sciences-math%C3%A9matiques-et-informatique)
+- 🔭 Currently, I'm Master degree student in [Applied computer sciences and Offshoring](http://www.fsr.ac.ma/content/informatique-appliquee-offshoring)
 
-- 🌱 I’m currently learning **react.js**
 
 - 📫 How to reach me **toh.webdevelopment@gmail.com**
 
