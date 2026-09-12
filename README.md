@@ -2,7 +2,7 @@
 
 # Hi, I'm Taha Ofqir-Hamma 👋
 
-**Endpoint & Automation Engineer @ DXC Technology** — building toward Software Engineering & DevOps
+**Software Engineer** — Full-Stack Development, Automation & AI-Assisted Engineering
 
 📍 Rabat, Morocco &nbsp;•&nbsp; 🌐 [tahaoh.dev](https://tahaoh.dev) &nbsp;•&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/taha-ofqir-hamma-06928a23b/) &nbsp;•&nbsp; ✉️ taha.ofqir@gmail.com
 
@@ -12,14 +12,15 @@
 
 ### 👨‍💻 About
 
-I work day to day on a large Windows workstation estate — SCCM, Microsoft Intune, patch management, and PowerShell/PSADT packaging. Alongside that I build internal tooling (Python + Flask, Microsoft Graph API reporting) and I have a software engineering background in Java/Spring Boot, NestJS, and React/Next.js.
+I'm a software engineer with a full-stack background in Java/Spring Boot, NestJS, and React/Next.js, currently working as an Endpoint & Automation Engineer at DXC Technology while building back toward full-time software engineering, DevOps, and platform roles.
 
-I'm currently working to move back toward full-stack software engineering, DevOps, and platform roles.
+On the job I build internal tooling and automation — Python/Flask services, PowerShell/PSADT packaging, and Microsoft Graph API reporting — and I lean heavily on AI tools to design, build, and ship faster.
 
+- 🤖 Use AI coding assistants (Claude, GitHub Copilot) daily across the full dev cycle — architecture, code generation, debugging, and documentation
+- 🧠 Applied ML in production: built an automated root-cause analysis platform for Zabbix alerts using SBERT embeddings + Logistic Regression classification
+- 📊 Built an Intune compliance/obsolescence reporting module on the Microsoft Graph API
 - 🔧 Monthly patching cycle: ADRs, Software Update Groups, phased pilot → production rollouts
 - 📦 Application packaging & silent deployment with PSADT
-- 📊 Built an Intune compliance/obsolescence reporting module on the Microsoft Graph API
-- 🧩 Also ship side projects in Flask/HTML and occasional Next.js apps
 - 🗣️ Trilingual: Arabic, French, English
 
 ---
@@ -53,6 +54,13 @@ I'm currently working to move back toward full-stack software engineering, DevOp
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**AI Tools**
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Cursor](https://img.shields.io/badge/-Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 ---
 
